@@ -44,4 +44,12 @@ I built the model in Excel myself. An AI assistant gave step by step guidance, t
 
 ## File
 
-[FPA_FY2026_Scenario_Forecast.xlsx](FPA_FY2026_Scenario_Forecast.xlsx)
+[Download the Excel workbook](https://github.com/Kenny-GomezCR/FPA-data-portfolio/raw/refs/heads/main/07-capstone-superfintech-forecast/FPA_FY2026_Scenario_Forecast.xlsx)
+
+GitHub does not preview Excel files, so the link downloads the workbook. Open it in Excel to see the formulas and charts.
+
+## Preview
+
+![Scenario Comparison](scenario-comparison.png)
+
+![Summary by Country](summary-country.png)
