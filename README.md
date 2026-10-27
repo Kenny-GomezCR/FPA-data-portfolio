@@ -1,4 +1,4 @@
-# Kenny Gómez — FP&A & Data Analytics Portfolio
+# Kenny Gómez - FP&A & Data Analytics Portfolio
 
 Former Accounts Payable Specialist (Hologic Surgical Products S.R.L.) transitioning into FP&A and data analytics. This repository holds the case studies and dashboards I've built while completing the IBM Financial Planning and Analysis (FP&A) with AI Skills Professional Certificate and the Microsoft Power BI Data Analyst Professional Certificate.
 
