@@ -12,7 +12,7 @@ Former Accounts Payable Specialist (Hologic Surgical Products S.R.L.) transition
 
 | Project | Status | Tools |
 |---|---|---|
-| FP&A with AI: Capstone Project (IBM) | In progress | Excel, AI-assisted forecasting |
+| [FY2026 Scenario Forecast: SuperFintech Company](07-capstone-superfintech-forecast) | Completed | Excel, AI-assisted forecasting |
 | Small FP&A case study | Planned | TBD |
 | Accounts Payable forecast (AP aging, vendor spend variance, DPO) | Planned | SQL, Python, FP&A, Power BI |
 | Full FP&A case study | Planned | SQL, Python, Power BI |
